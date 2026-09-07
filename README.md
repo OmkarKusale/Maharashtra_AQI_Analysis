@@ -19,7 +19,7 @@ Mumbai | Pune | Nagpur | Nashik | Thane
 
 ## 📊 Dashboard
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview]("C:\Users\Omkar\OneDrive\Desktop\AQI PROJECT\dashboard.png")
 
 ## 📈 Key Analysis
 
