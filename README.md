@@ -17,6 +17,17 @@ The data was collected and prepared using Microsoft Excel, including data cleani
 
 Mumbai | Pune | Nagpur | Nashik | Thane
 
+
+## Dataset Used
+
+- [📊 AQI Dataset]([https://github.com/OmkarKusale/Maharashtra_AQI_Analysis/blob/main/data/AQI%20SUMMARY.xlsx])
+
+## Dashboard
+
+- [📈 Power BI Dashboard](https://github.com/OmkarKusale/YOUR-REPOSITORY-NAME/blob/main/dashboard/Maharashtra_AQI_Analysis_2025.pbix)
+
+- [🖼️ Dashboard Preview](https://github.com/OmkarKusale/YOUR-REPOSITORY-NAME/blob/main/images/dashboard_preview.png)
+
 ## Dataset Used
 
 - [📊 AQI Dataset]((https://github.com/OmkarKusale/Maharashtra_AQI_Analysis/blob/main/data/AQI%20SUMMARY.xlsx))
