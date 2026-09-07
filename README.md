@@ -20,7 +20,7 @@ Mumbai | Pune | Nagpur | Nashik | Thane
 
 ## Dataset Used
 
-- [📊 AQI Dataset]([https://github.com/OmkarKusale/Maharashtra_AQI_Analysis/blob/main/data/AQI%20SUMMARY.xlsx])
+- [📊 AQI Dataset](https://github.com/OmkarKusale/Maharashtra_AQI_Analysis/blob/main/data/AQI%20SUMMARY.xlsx)
 
 ## Dashboard
 
