@@ -6,7 +6,7 @@ The objective of this project is to analyze Air Quality Index (AQI) trends acros
 
 ## Dataset Used
 
-- [📊 AQI Dataset](data/Maharashtra_AQI_Data.xlsx)
+- [📊 AQI Dataset](https://github.com/OmkarKusale/Maharashtra_AQI_Analysis/blob/main/data/AQI%20SUMMARY.xlsx)
 
 ## Questions (KPIs)
 
