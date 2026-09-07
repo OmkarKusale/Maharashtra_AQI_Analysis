@@ -24,7 +24,7 @@ Mumbai | Pune | Nagpur | Nashik | Thane
 
 ## Dashboard
 
-- [📈 Power BI Dashboard](https://github.com/OmkarKusale/YOUR-REPOSITORY-NAME/blob/main/dashboard/Maharashtra_AQI_Analysis_2025.pbix)
+- [📈 Power BI Dashboard](https://github.com/OmkarKusale/Maharashtra_AQI_Analysis/blob/main/dashboard/AQI.pbix)
 
 - [🖼️ Dashboard Preview](https://github.com/OmkarKusale/YOUR-REPOSITORY-NAME/blob/main/images/dashboard_preview.png)
 
