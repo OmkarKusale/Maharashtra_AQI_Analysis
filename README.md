@@ -19,7 +19,7 @@ The objective of this project is to analyze Air Quality Index (AQI) trends acros
 
 ## Dashboard
 
-- [📈 Power BI Dashboard](dashboard/Maharashtra_AQI_Analysis_2025.pbix)
+- [📈 Power BI Dashboard](https://github.com/OmkarKusale/Maharashtra_AQI_Analysis/blob/main/dashboard/AQI.pbix)
 - [🖼️ Dashboard Preview](images/dashboard_preview.png)
 
 ## Process
