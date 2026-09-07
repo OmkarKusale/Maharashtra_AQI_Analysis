@@ -20,7 +20,7 @@ The objective of this project is to analyze Air Quality Index (AQI) trends acros
 ## Dashboard
 
 - [📈 Power BI Dashboard](https://github.com/OmkarKusale/Maharashtra_AQI_Analysis/blob/main/dashboard/AQI.pbix)
-- [🖼️ Dashboard Preview](images/dashboard_preview.png)
+- [🖼️ Dashboard Preview](https://github.com/OmkarKusale/Maharashtra_AQI_Analysis/blob/main/images/dashboard.png)
 
 ## Process
 
@@ -59,7 +59,3 @@ The objective of this project is to analyze Air Quality Index (AQI) trends acros
 
 This analysis provides a clear view of air quality trends across 5 major cities in Maharashtra during 2025. The dashboard helps compare AQI levels across cities, months, and quarters, making it easier to identify pollution patterns and support data-driven decision-making.
 
-
-**Omkar Kusale**
-
-Aspiring Data Analyst | Excel | SQL | Power BI
