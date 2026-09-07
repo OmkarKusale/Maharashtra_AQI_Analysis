@@ -1,2 +1,38 @@
-# Maharashtra_AQI_Analysis
-End-to-end AQI analysis of 5 major Maharashtra cities using Excel for data collection and preparation, and Power BI for interactive visualization.
+# 🌍 Maharashtra Air Quality Analysis 2025
+
+## 📌 Overview
+
+An end-to-end data analysis project analyzing AQI trends across 5 major cities in Maharashtra for 2025.
+
+The data was collected and prepared using Microsoft Excel, including data cleaning, organizing, and merging. Power BI was used to create an interactive dashboard and analyze monthly and quarterly AQI trends.
+
+## 🛠️ Tools Used
+
+- Microsoft Excel
+- Power Query
+- Power BI
+- DAX
+
+## 🏙️ Cities Analyzed
+
+Mumbai | Pune | Nagpur | Nashik | Thane
+
+## 📊 Dashboard
+
+![Dashboard Preview](images/dashboard_preview.png)
+
+## 📈 Key Analysis
+
+- City-wise AQI Comparison
+- Monthly AQI Trends
+- Quarterly AQI Comparison
+- AQI Category Distribution
+- Quarterly AQI Heatmap
+- Interactive Filters
+
+## 🔍 Key Insights
+
+- Pune recorded the highest average AQI.
+- AQI levels varied across cities, months, and quarters.
+- The dashboard helps identify city-wise and seasonal air quality patterns.
+
